@@ -1,2 +1,1 @@
-# Basicofpythan
-Assignment on Basic of pythan
+Assignment Data Toolkit
